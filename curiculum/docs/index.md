@@ -1,8 +1,13 @@
 # Welcome to Git Workshop
 ## Make your first contribution!
 
-For [Github](https://github.com/nammahari/cit-hackers.git)
+For [Github](https://github.com/nammahari/pondy-university.git)
 
+# We don't have internet 
+### so , we can't contribute 
+this is the sitiuation here. 
+- at pondy university
+- in kalapet
 ## For Contact
 
 - Telegram : [t.me/nammahari](https://t.me/nammahari)
